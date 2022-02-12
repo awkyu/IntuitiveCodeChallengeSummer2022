@@ -1,0 +1,8 @@
+>python Encoder_Potentiometer_ErrorCheck.py "Code Challenge Data\\perfect.txt"
+No Error Found
+
+>python Encoder_Potentiometer_ErrorCheck.py "Code Challenge Data\\normal.txt"
+No Error Found
+
+>python Encoder_Potentiometer_ErrorCheck.py "Code Challenge Data\\error.txt"
+Error Found at 2.999 seconds
